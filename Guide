@@ -1,0 +1,24 @@
+Creating a website need planning about what things you want in your website what stuffs you want to show in your Home screen, about screen Etc
+Make sure the the planning is complete and there are no last moment changes.
+
+**This consists of 2 number of parts Codeing and Hosting.**
+
+Part 1
+Install VS CODE and create a folder [eg. website].
+Create a file named [index.html].
+Folder name in Part(1) consist the basic code for html & css, you can add your code of just take a reference from it.
+You can preview your file with html preview.
+
+Part 2
+Go to any hosting site like infinity free/go daddy/etc.
+I am using infinity free.
+Sign up to infinity free.
+Select a hositing domain. Your preference.
+After choosing a domain you are returned to a Dashboard.
+Go to File manager >> htdocs >> and on the left bottom u can see a upload sign upload your code over there. Saved as {index.html}.
+Save the file.
+Now return to dashboard then go to your domain and your website will be online.
+
+
+All code and guide contained in this work are the exclusive property of Fluk and are protected by copyright laws.
+Unauthorized copying or use of any portion of this code or guide is strictly prohibited. Copyright © Fluk. All rights reserved.
