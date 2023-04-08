@@ -6,7 +6,13 @@ Make sure the the planning is complete and there are no last moment changes.
 Part 1
 Install VS CODE and create a folder [eg. website].
 Create a file named [index.html].
-Folder name in Part(1) consist the basic code for html & css, you can add your code of just take a reference from it.
+
+FOR RFERENCE
+Part html : Consists of the Html code.
+Part Css : Consists of the Css code.
+Part Main : Consists of the Combined main code.
+
+Folder name in Part(main) consist the basic code for html & css, you can add your code of just take a reference from it.
 You can preview your file with html preview.
 
 Part 2
