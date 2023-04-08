@@ -12,6 +12,9 @@ Part html : Consists of the Html code.
 Part Css : Consists of the Css code.
 Part Main : Consists of the Combined main code.
 
+There are two parts one with css and html and main code for about and main website.
+NOTE: the about is added to a main with the help of new domain which is linked in to the main about pop up.
+
 Folder name in Part(main) consist the basic code for html & css, you can add your code of just take a reference from it.
 You can preview your file with html preview.
 
