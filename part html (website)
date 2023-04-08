@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FLUK</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li>
+					<a href="#">About</a>
+					<ul>
+                        <li><a href="link for about section">About</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">Social Media</a>
+					<ul>
+						<li><a href="insert link to your blogger account">Blog</a></li>
+						<li><a href="insert link to your Instagram account">Instagram</a></li>
+						<li><a href="insert link to your Discord server">Discord</a></li>
+						<li><a href="insert link to your GitHub account">GitHub</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<section class="background-image">
+		<!--<p>“Life is not a problem to be solved, but a reality to be experienced.”</p>-->
+	</section>
+</body>
+</html>

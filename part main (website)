@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FLUK</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="https://tinypic.host/images/2023/04/08/fluk.jpg">
+</head>
+<body>
+    <style>
+        body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: transparent;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	margin-right: 20px;
+	position: relative;
+}
+
+nav a {
+	color: cyan;
+	text-decoration: none;  
+	padding: 5px;
+}
+
+nav ul ul {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	background-color: transparent;
+	display: none;
+}
+
+nav ul ul li {
+	display: block;
+}
+
+nav ul li:hover ul {
+	display: block;
+}
+
+.background-image {
+	background-image: url('https://imgs.search.brave.com/SLkQyHj1DvvVK8L6lMir3os56CYZ9q0dGGkOTmxPGH8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGRxd2FsbHMu/Y29tL3dhbGxwYXBl/cnMvZWFydGgtdmll/dy1mcm9tLXNwYWNl/LTRrLTIzLmpwZw');
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+p {
+	color: rgb(221, 113, 12);
+	font-size: 24px;
+	margin: 20px 0;
+}
+
+@media screen and (max-width: 768px) {
+	nav {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	
+	nav li {
+		margin: 10px;
+	}
+	
+	nav ul ul {
+		position: static;
+		background-color: transparent;
+	}
+	
+	nav ul ul li {
+		display: inline-block;
+		margin-right: 10px;
+	}
+}
+
+    </style>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li>
+					<a href="#">About</a>
+					<ul>
+                        <li><a href="link for about section">About</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">Social Media</a>
+					<ul>
+						<li><a href="insert link to your blogger account">Blog</a></li>
+						<li><a href="insert link to your Instagram account">Instagram</a></li>
+						<li><a href="insert link to your Discord server">Discord</a></li>
+						<li><a href="insert link to your GitHub account">GitHub</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<section class="background-image">
+		<!--<p>“Life is not a problem to be solved, but a reality to be experienced.”</p>-->
+	</section>
+</body>
+</html>

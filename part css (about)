@@ -1,0 +1,31 @@
+<style>
+		body {
+			background-image: url('https://imgs.search.brave.com/t5WKPXsTuwm8GtLevBi3rVN84ddG5p2PFkv7tZ0tl-Q/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMud2FsbHBhcGVy/c2Rlbi5jb20vaW1h/Z2UvZG93bmxvYWQv/ZWFydGgtYXRtb3Nw/aGVyZS1mcm9tLXNw/YWNlX2EyaHJabTJV/bVpxYXJhV2twSlJw/Wlc1cnJXZG1hMlUu/anBn');
+			background-size: cover;
+			background-position: center;
+			margin: 0;
+			padding: 0;
+		}
+		
+		.container {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+		}
+		
+		h1 {
+			color: white;
+			font-size: 48px;
+			margin: 0;
+			text-align: center;
+		}
+		
+		p {
+			color: white;
+			font-size: 15px;
+			margin: 20px 0;
+			text-align: center;
+		}
+	</style>
