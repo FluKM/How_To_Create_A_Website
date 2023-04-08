@@ -53,7 +53,7 @@ nav ul li:hover ul {
 }
 
 .background-image {
-	background-image: url('https://imgs.search.brave.com/SLkQyHj1DvvVK8L6lMir3os56CYZ9q0dGGkOTmxPGH8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGRxd2FsbHMu/Y29tL3dhbGxwYXBl/cnMvZWFydGgtdmll/dy1mcm9tLXNwYWNl/LTRrLTIzLmpwZw');
+	background-image: url('LINK OF THE PIC YOU WANT TO ADD');
 	background-size: cover;
 	background-position: center;
 	min-height: 100vh;
