@@ -1,4 +1,4 @@
-# how-to-create-a-website
+# How_To_Create_A_Website
 
 This is a basic guide about how to create a website.
 
